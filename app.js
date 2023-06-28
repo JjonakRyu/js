@@ -25,6 +25,6 @@ new Typewriter(txtAnim, {
 .deleteChars(61)
 .typeString('<strong> rien a voir mais ... j\'aime les ramen !</strong>!')
 .pauseFor(2000)
-.deleteChars(42)
+.deleteChars(40)
 .typeString(' <3')
 .start()
