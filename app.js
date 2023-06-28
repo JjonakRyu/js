@@ -23,7 +23,7 @@ new Typewriter(txtAnim, {
 .typeString('<span style="color: midnightblue"> challenger sur LOL</span>')
 .pauseFor(2000)
 .deleteChars(61)
-.typeString('<strong> rien a voir mais ... j\'aime les ramens !</strong>!')
+.typeString('<strong> rien a voir mais ... j\'aime les ramen !</strong>!')
 .pauseFor(2000)
 .deleteChars(42)
 .typeString(' <3')
